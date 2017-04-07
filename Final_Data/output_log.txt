@@ -1,0 +1,265 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 90)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\KDTree.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\Final_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.908514 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2904 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.326913 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 3882.
+Total: 0.825815 ms (FindLiveObjects: 0.140850 ms CreateObjectMapping: 0.069548 ms MarkObjects: 0.499405 ms  DeleteObjects: 0.115427 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at die.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at die.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level1/Waste_Barrel (4)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level1/Waste_Barrel (3)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level1/Waste_Barrel (2)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.108039 ms
+
+Unloading 561 unused Assets to reduce memory usage. Loaded Objects now: 6481.
+Total: 2.105743 ms (FindLiveObjects: 0.182345 ms CreateObjectMapping: 0.116596 ms MarkObjects: 0.615416 ms  DeleteObjects: 1.177065 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (9)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (19)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (17)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (12)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (11)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (5)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (13)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (14)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (3)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (10)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (8)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (4)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (16)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (15)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (18)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (7)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Barrels/Waste_Barrel (6)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.666432 ms
+
+Unloading 899 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 3.157153 ms (FindLiveObjects: 0.070717 ms CreateObjectMapping: 0.042079 ms MarkObjects: 0.193157 ms  DeleteObjects: 2.850906 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.004362 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 413.
+Total: 0.170364 ms (FindLiveObjects: 0.043540 ms CreateObjectMapping: 0.012565 ms MarkObjects: 0.107829 ms  DeleteObjects: 0.005552 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.310338 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3885.
+Total: 0.535932 ms (FindLiveObjects: 0.111920 ms CreateObjectMapping: 0.054937 ms MarkObjects: 0.361184 ms  DeleteObjects: 0.007597 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at die.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at die.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level1/Waste_Barrel (4)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level1/Waste_Barrel (3)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Level1/Waste_Barrel (2)/Barrel_low", Mesh asset path "" Mesh name "Barrel_low"
+ 
+(Filename:  Line: 0)
+

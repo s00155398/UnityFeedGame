@@ -1,0 +1,159 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 90)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\KDTree.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Admin\Documents\feedrepo\Feed\1st_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.944460 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2224 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.976552 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 6471.
+Total: 0.920205 ms (FindLiveObjects: 0.198418 ms CreateObjectMapping: 0.065457 ms MarkObjects: 0.529213 ms  DeleteObjects: 0.126531 ms)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Scene 'Fail' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Scene 'Fail' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+Scene 'Fail' couldn't be loaded because it has not been added to the build settings or the AssetBundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 127)
+
+UnloadTime: 12.869441 ms
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 352 unused Assets to reduce memory usage. Loaded Objects now: 6578.
+Total: 1.280515 ms (FindLiveObjects: 0.309754 ms CreateObjectMapping: 0.085620 ms MarkObjects: 0.742827 ms  DeleteObjects: 0.141727 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.940281 ms
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 6578.
+Total: 0.989462 ms (FindLiveObjects: 0.232023 ms CreateObjectMapping: 0.078315 ms MarkObjects: 0.644348 ms  DeleteObjects: 0.034482 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.480909 ms
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at fatdie.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 6578.
+Total: 0.980111 ms (FindLiveObjects: 0.237576 ms CreateObjectMapping: 0.115427 ms MarkObjects: 0.593794 ms  DeleteObjects: 0.033021 ms)
+
